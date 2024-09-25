@@ -1,27 +1,37 @@
 QBANK
-Qbank é uma plataforma que visa facilitar o gerenciamento financeiro do usario, mais do que um banco mas sim um parceiro na sua gestão financeira, permitindo o usuario realizar transferencias em varios metodos, permitindo a abertura de contas, Gerenciamento de investimentos, proporcionando maior controle dos seus gastos
 
-TECNOLOGIAS USADAS
--ASP.NET CORE (C#)
--Entity Framework Core
--SQL Server
--HTML/CSS/JavaScript
+QBANK é uma plataforma inovadora que vai além do papel de um banco tradicional, tornando-se um verdadeiro parceiro na gestão financeira dos seus usuários. Nosso objetivo é facilitar o gerenciamento financeiro, permitindo ao usuário:
+
+Realizar transferências através de diversos métodos;
+Abrir contas de maneira rápida e segura;
+Gerenciar investimentos com facilidade;
+Obter maior controle sobre seus gastos, com uma interface intuitiva e funcionalidades avançadas.
+Funcionalidades
+Transferências Multimétodos: Integração de diferentes formas de transferência para facilitar as operações financeiras.
+Abertura de Contas: Processo simplificado de abertura de conta diretamente na plataforma.
+Gerenciamento de Investimentos: Ferramentas para acompanhar e gerir os investimentos com transparência e controle.
+Controle de Gastos: Relatórios detalhados e personalizáveis para monitorar os gastos e auxiliar no planejamento financeiro.
+Tecnologias Utilizadas
+O projeto foi desenvolvido com as seguintes tecnologias:
+
+ASP.NET Core (C#): Framework robusto para o desenvolvimento de aplicações web.
+Entity Framework Core: ORM utilizado para facilitar a interação com o banco de dados.
+SQL Server: Banco de dados relacional utilizado para armazenar informações dos usuários e transações.
+HTML/CSS/JavaScript: Para o desenvolvimento da interface do usuário, proporcionando uma experiência visual moderna e responsiva.
+Equipe
+O desenvolvimento da plataforma QBANK foi realizado por uma equipe dedicada de desenvolvedores:
+
 
 
 INTEGRANTES
-[Pedro](https://github.com/PedroPirezz)
-
-Nome: Pedro Henrique Rodrigues Pires
+Nome: [Pedro Henrique Rodrigues Pires](https://github.com/PedroPirezz)
 RA:123221182
 
-Nome: Matheus Lopes Ferreira Leite 
+Nome: [Matheus Lopes Ferreira Leite](https://github.com/Matheus-Ferreira-123)
 RA:1232022908
 
-Nome:Pedro Henrique Alves Barbosa
+Nome: [:Pedro Henrique Alves Barbosa ](https://github.com/pedrobarbosa18)
 RA:123222053
 
-Nome:Lucas Guilherme Ávila Barreto
+Nome: [:Lucas Guilherme Ávila Barreto ](https://github.com/lucasxavila)
 RA:1232021323
-
-
-
