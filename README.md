@@ -2,17 +2,18 @@ QBANK
 
 QBANK é uma plataforma inovadora que vai além do papel de um banco tradicional, tornando-se um verdadeiro parceiro na gestão financeira dos seus usuários. Nosso objetivo é facilitar o gerenciamento financeiro, permitindo ao usuário:
 
-Realizar transferências através de diversos métodos;
-Abrir contas de maneira rápida e segura;
-Gerenciar investimentos com facilidade;
-Obter maior controle sobre seus gastos, com uma interface intuitiva e funcionalidades avançadas.
-Funcionalidades
-Transferências Multimétodos: Integração de diferentes formas de transferência para facilitar as operações financeiras.
-Abertura de Contas: Processo simplificado de abertura de conta diretamente na plataforma.
-Gerenciamento de Investimentos: Ferramentas para acompanhar e gerir os investimentos com transparência e controle.
-Controle de Gastos: Relatórios detalhados e personalizáveis para monitorar os gastos e auxiliar no planejamento financeiro.
-Tecnologias Utilizadas
-O projeto foi desenvolvido com as seguintes tecnologias:
+-Realizar transferências através de diversos métodos;
+-Abrir contas de maneira rápida e segura;
+-Gerenciar investimentos com facilidade;
+-Obter maior controle sobre seus gastos, com uma interface intuitiva e funcionalidades avançadas.
+
+FUNCIONALIDADES
+-Transferências Multimétodos: Integração de diferentes formas de transferência para facilitar as operações financeiras.
+-Abertura de Contas: Processo simplificado de abertura de conta diretamente na plataforma.
+-Gerenciamento de Investimentos: Ferramentas para acompanhar e gerir os investimentos com transparência e controle.
+-Controle de Gastos: Relatórios detalhados e personalizáveis para monitorar os gastos e auxiliar no planejamento financeiro.
+
+TECNOLOGIAS UTILIZADAS
 
 ASP.NET Core (C#): Framework robusto para o desenvolvimento de aplicações web.
 Entity Framework Core: ORM utilizado para facilitar a interação com o banco de dados.
@@ -24,6 +25,7 @@ O desenvolvimento da plataforma QBANK foi realizado por uma equipe dedicada de d
 
 
 INTEGRANTES
+
 Nome: [Pedro Henrique Rodrigues Pires](https://github.com/PedroPirezz)
 RA:123221182
 
