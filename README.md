@@ -1,4 +1,3 @@
-# QBank
 QBANK
 
 QBANK é uma plataforma inovadora que vai além do papel de um banco tradicional, tornando-se um verdadeiro parceiro na gestão financeira dos seus usuários. Nosso objetivo é facilitar o gerenciamento financeiro, permitindo ao usuário:
